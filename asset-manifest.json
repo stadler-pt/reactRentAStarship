@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactRentAStarship/static/css/main.5d6e7351.chunk.css",
+    "main.js": "/reactRentAStarship/static/js/main.e30947dd.chunk.js",
+    "main.js.map": "/reactRentAStarship/static/js/main.e30947dd.chunk.js.map",
+    "runtime-main.js": "/reactRentAStarship/static/js/runtime-main.39438600.js",
+    "runtime-main.js.map": "/reactRentAStarship/static/js/runtime-main.39438600.js.map",
+    "static/js/2.552411d2.chunk.js": "/reactRentAStarship/static/js/2.552411d2.chunk.js",
+    "static/js/2.552411d2.chunk.js.map": "/reactRentAStarship/static/js/2.552411d2.chunk.js.map",
+    "index.html": "/reactRentAStarship/index.html",
+    "precache-manifest.ed5bf427dd4456a7e8ee59811705bda4.js": "/reactRentAStarship/precache-manifest.ed5bf427dd4456a7e8ee59811705bda4.js",
+    "service-worker.js": "/reactRentAStarship/service-worker.js",
+    "static/css/main.5d6e7351.chunk.css.map": "/reactRentAStarship/static/css/main.5d6e7351.chunk.css.map",
+    "static/js/2.552411d2.chunk.js.LICENSE.txt": "/reactRentAStarship/static/js/2.552411d2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactRentAStarship/static/media/stars.bbc27b2c.jpeg",
+    "static/media/ackbar.jpg": "/reactRentAStarship/static/media/ackbar.5993b9f3.jpg",
+    "static/media/shopping_cart.svg": "/reactRentAStarship/static/media/shopping_cart.9ab4c4e9.svg",
+    "static/media/solo.jpg": "/reactRentAStarship/static/media/solo.4282c3be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39438600.js",
+    "static/js/2.552411d2.chunk.js",
+    "static/css/main.5d6e7351.chunk.css",
+    "static/js/main.e30947dd.chunk.js"
+  ]
+}
