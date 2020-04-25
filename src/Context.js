@@ -7,25 +7,25 @@ const ContextProvider = (props) => {
     const [cartItems, setCartItems] = useState([])
 
 useEffect(() => {
-fetch("https://swapi.dev/api/starships/", {
+fetch("http://swapi.dev/api/starships/?page=1", {
   mode: 'no-cors'
 })
     .then(response => response.json())
     .then(data => {
         setProducts(data.results)
-        return fetch("https://swapi.dev/api/starships/?page=2", {
+        return fetch("http://swapi.dev/api/starships/?page=2", {
   mode: 'no-cors'
 })
     }).then(response => response.json())
     .then(data => {
         setProducts(prev => prev.concat(data.results))
-        return fetch("https://swapi.dev/api/starships/?page=3", {
+        return fetch("http://swapi.dev/api/starships/?page=3", {
   mode: 'no-cors'
 })
     }).then(response => response.json())
     .then(data => {
         setProducts(prev => prev.concat(data.results))
-        return fetch("https://swapi.dev/api/starships/?page=4", {
+        return fetch("http://swapi.dev/api/starships/?page=4", {
   mode: 'no-cors'
 })
     }).then(response => response.json())
