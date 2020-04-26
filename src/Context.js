@@ -7,31 +7,19 @@ const ContextProvider = (props) => {
     const [cartItems, setCartItems] = useState([])
 
 useEffect(() => {
-fetch("https://swapi.dev/api/starships/?page=1", {
-    method: 'GET',
-    mode: 'no-cors',
-  })
+fetch("https://swapi.dev/api/starships/?page=1")
     .then(response => response.json())
     .then(data => {
         setProducts(data.results)
-        return fetch("https://swapi.dev/api/starships/?page=2", {
-            method: 'GET',
-            mode: 'no-cors',
-          })
+        return fetch("https://swapi.dev/api/starships/?page=2")
     }).then(response => response.json())
     .then(data => {
         setProducts(prev => prev.concat(data.results))
-        return fetch("https://swapi.dev/api/starships/?page=3", {
-            method: 'GET',
-            mode: 'no-cors',
-          })
+        return fetch("https://swapi.dev/api/starships/?page=3")
     }).then(response => response.json())
     .then(data => {
         setProducts(prev => prev.concat(data.results))
-        return fetch("https://swapi.dev/api/starships/?page=4", {
-            method: 'GET',
-            mode: 'no-cors',
-          })
+        return fetch("https://swapi.dev/api/starships/?page=4")
     }).then(response => response.json())
     .then(data => {
         setProducts(prev => prev.concat(data.results))
