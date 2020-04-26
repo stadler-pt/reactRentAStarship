@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "647da7a99f8e476b475af1eefe89ffa2",
+    "revision": "57ab11ff5488ada901a817e621deb224",
     "url": "/reactRentAStarship/index.html"
   },
   {
-    "revision": "924f93de52cca2e600cf",
+    "revision": "69a570791080ddfd26ad",
     "url": "/reactRentAStarship/static/css/main.5d6e7351.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactRentAStarship/static/js/2.552411d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "924f93de52cca2e600cf",
-    "url": "/reactRentAStarship/static/js/main.dc1b1a8b.chunk.js"
+    "revision": "69a570791080ddfd26ad",
+    "url": "/reactRentAStarship/static/js/main.f7d818b4.chunk.js"
   },
   {
     "revision": "f5aa5d5fa4f451491a40",

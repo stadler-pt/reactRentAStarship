@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactRentAStarship/static/css/main.5d6e7351.chunk.css",
-    "main.js": "/reactRentAStarship/static/js/main.dc1b1a8b.chunk.js",
-    "main.js.map": "/reactRentAStarship/static/js/main.dc1b1a8b.chunk.js.map",
+    "main.js": "/reactRentAStarship/static/js/main.f7d818b4.chunk.js",
+    "main.js.map": "/reactRentAStarship/static/js/main.f7d818b4.chunk.js.map",
     "runtime-main.js": "/reactRentAStarship/static/js/runtime-main.39438600.js",
     "runtime-main.js.map": "/reactRentAStarship/static/js/runtime-main.39438600.js.map",
     "static/js/2.552411d2.chunk.js": "/reactRentAStarship/static/js/2.552411d2.chunk.js",
     "static/js/2.552411d2.chunk.js.map": "/reactRentAStarship/static/js/2.552411d2.chunk.js.map",
     "index.html": "/reactRentAStarship/index.html",
-    "precache-manifest.98bccf9c6959255b1d47cfa7355b1c76.js": "/reactRentAStarship/precache-manifest.98bccf9c6959255b1d47cfa7355b1c76.js",
+    "precache-manifest.25d4ce90e5d38ffac8f836826361d0c1.js": "/reactRentAStarship/precache-manifest.25d4ce90e5d38ffac8f836826361d0c1.js",
     "service-worker.js": "/reactRentAStarship/service-worker.js",
     "static/css/main.5d6e7351.chunk.css.map": "/reactRentAStarship/static/css/main.5d6e7351.chunk.css.map",
     "static/js/2.552411d2.chunk.js.LICENSE.txt": "/reactRentAStarship/static/js/2.552411d2.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.39438600.js",
     "static/js/2.552411d2.chunk.js",
     "static/css/main.5d6e7351.chunk.css",
-    "static/js/main.dc1b1a8b.chunk.js"
+    "static/js/main.f7d818b4.chunk.js"
   ]
 }
